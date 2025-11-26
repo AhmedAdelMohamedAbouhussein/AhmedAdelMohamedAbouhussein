@@ -7,9 +7,10 @@
 
 <h3>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h3>
 
-I'm a third-year Software Engineering student at AAST with a **3.84 GPA** and an **Academic Excellence Award**.  
 I enjoy building full-stack applications, working with cloud technologies, and automating workflows using DevOps tools.  
 My main focus is on creating **scalable**, **efficient**, and **production-ready systems**.
+
+I'm a third-year Software Engineering student at AAST with a **3.84 GPA** and an **Academic Excellence Award**.  
 
 ---
 
@@ -34,21 +35,21 @@ My main focus is on creating **scalable**, **efficient**, and **production-ready
 
 ### 🔭 Currently Working On  
 
-A **full-stack web application** that aggregates prices for games across major stores  
-(Steam, Epic Games, PlayStation, Xbox) and helps users track the lowest prices.
-
-Features include:
-
-- Dynamic searching & filtering (web)
-- Real-time price comparison
-- Redis caching for performance  
-- Direct store redirection  
-- Automated CI/CD pipeline with GitHub Actions  
-- Dockerized backend
-
-**Tech Stack:** React (Frontend Web), Express.js, MongoDB, Docker, GitHub Actions
+### 1. Game Price Aggregator Web App
+- Aggregates prices across Steam, Epic Games, PlayStation, and Xbox  
+- **Features:** Dynamic searching & filtering, real-time price comparison, Redis caching, direct store redirection  
+- Automated CI/CD pipeline with GitHub Actions, Dockerized backend  
+- **Tech Stack:** React (Frontend Web), Express.js, MongoDB, Docker, GitHub Actions
 
 🔗 **[Repository Link](https://github.com/AhmedAdelMohamedAbouhussein/Cross-Platform-GameHub-Price-Aggregator)**
+
+
+### 2. Flutter Cross-Platform App
+- Mobile app for tracking personal tasks and productivity  
+- **Features:** Task management, notifications, data syncing across devices  
+- **Tech Stack:** Flutter, Firebase, REST APIs
+
+🔗 **[Repository Link](https://github.com/AhmedAdelMohamedAbouhussein/FlutterProject)**
 
 ---
 
@@ -70,9 +71,6 @@ Features include:
     <img alt="LeetCode" title="LeetCode Profile" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
-  <!-- <a href="https://github.com/AhmedAdelMohamedAbouhussein?tab=followers">
-    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/AhmedAdelMohamedAbouhussein?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a> -->
 </p>
 
 
