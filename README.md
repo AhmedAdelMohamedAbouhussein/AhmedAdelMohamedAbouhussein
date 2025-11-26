@@ -19,6 +19,7 @@ My main focus is on creating **scalable**, **efficient**, and **production-ready
 - **Full-Stack Development:** React, Node.js, Express, MongoDB  
 - **Cross-Platform Development:** Flutter  
 - **DevOps:** Docker, GitHub Actions, CI/CD, AWS Deployments  
+- :**API Development & Testing::** Swagger, Postman
 - **Cloud (AWS):** EC2, S3, RDS, IAM, VPC  
 - **OOP:** Java, Python, C++
 
