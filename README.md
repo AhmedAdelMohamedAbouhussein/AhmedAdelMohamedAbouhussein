@@ -131,4 +131,4 @@ I'm a third-year Software Engineering student at AAST with a **3.84 GPA** and an
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAdelMohamedAbouhussein&show_icons=true&theme=onedark&title_color=1100ff&bg_color=fafafa&locale=en" /></p>
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAdelMohamedAbouhussein)](https://github.com/anuraghazra/github-readme-stats)
