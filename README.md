@@ -7,10 +7,10 @@
 
 <h3>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h3>
 
+I'm a third-year Software Engineering student at AAST with a **3.84 GPA** and an **Academic Excellence Award**.  
+
 I enjoy building full-stack applications, working with cloud technologies, and automating workflows using DevOps tools.  
 My main focus is on creating **scalable**, **efficient**, and **production-ready systems**.
-
-I'm a third-year Software Engineering student at AAST with a **3.84 GPA** and an **Academic Excellence Award**.  
 
 ---
 
