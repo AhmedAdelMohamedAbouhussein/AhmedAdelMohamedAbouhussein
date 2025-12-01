@@ -132,4 +132,4 @@ My main focus is on creating **scalable**, **efficient**, and **production-ready
 
 ---
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAdelMohamedAbouhussein)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAdelMohamedAbouhussein)](https://github.com/anuraghazra/github-readme-stats) --<
