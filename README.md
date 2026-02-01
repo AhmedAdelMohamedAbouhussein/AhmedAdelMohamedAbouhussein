@@ -16,12 +16,16 @@ My main focus is on creating **scalable**, **efficient**, and **production-ready
 
 <h3>𝐌𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬</h3>
 
-- **Full-Stack Development:** React, Node.js, Express, MongoDB  
-- **Cross-Platform Development:** Flutter  
-- **DevOps:** Docker, GitHub Actions, CI/CD, AWS Deployments  
-- **API Development & Testing:** Swagger, Postman
-- **Cloud (AWS):** EC2, S3, RDS, IAM, VPC  
-- **OOP:** Java, Python, C++, C# , JS, TS
+- **Full-Stack Development:** React, Next.js, Node.js, Express, MongoDB, MySQL, PostgreSQL  
+- **Cross-Platform Development:** Flutter, Dart, Android (Java/Kotlin), iOS basics (Swift)  
+- **DevOps & CI/CD:** Docker, Kubernetes (basics), GitHub Actions, CI/CD pipelines, AWS Deployments  
+- **API Development & Testing:** REST, GraphQL, Swagger/OpenAPI, Postman,
+- **Cloud Services (AWS):** EC2, S3, RDS, Lambda, IAM, VPC, CloudFront, Route 53  
+- **OOP & Programming Languages:** Java, Python, C++, C#, JavaScript, TypeScript  
+- **Design Patterns & Architecture:** MVC, MVVM, Singleton, Factory, Observer, Repository Pattern, SOLID Principles  
+- **Data Structures & Algorithms:** Arrays, Linked Lists, Trees, Graphs, Sorting & Searching, Dynamic Programming, Recursion  
+- **System Design & Scalability:** Monolithic, Microservices, Load Balancers, Caching (Redis, Memcached), Database Sharding, CDN, Event-Driven Architecture  
+- **Other Tools & Technologies:** Git, GitLab, Bitbucket, Webpack, Babel, Gulp, RabbitMQ, Kafka (basics), Redis, Memcached, Agile/Scrum, Jira, Notion, Markdown  
 
 ---
 
