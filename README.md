@@ -21,7 +21,7 @@ My main focus is on creating **scalable**, **efficient**, and **production-ready
 - **DevOps:** Docker, GitHub Actions, CI/CD, AWS Deployments  
 - **API Development & Testing:** Swagger, Postman
 - **Cloud (AWS):** EC2, S3, RDS, IAM, VPC  
-- **OOP:** Java, Python, C++
+- **OOP:** Java, Python, C++, C# , JS, TS
 
 ---
 
